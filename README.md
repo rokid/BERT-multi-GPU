@@ -32,6 +32,6 @@ Official BERT: ACC 90.4, AUC 96.6
 
 This BERT with loss 2.05: ACC 89.9, AUC 96.2
 
-# license
+# LICENSE
 
 MIT
