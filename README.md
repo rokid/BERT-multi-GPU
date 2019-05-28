@@ -28,7 +28,7 @@ In `sample_text.txt`, sentence is end by \n, paragraph is splitted by empty line
 
 Quora question pairs English dataset,
 
-Official BERT: ACC 90.4, AUC 96.6
+Official BERT: ACC 91.2, AUC 96.9
 
 This BERT with loss 2.05: ACC 89.9, AUC 96.2
 
