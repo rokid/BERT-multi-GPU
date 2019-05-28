@@ -18,7 +18,7 @@ tensorflow 1.12.0
 
 # PARAMETERS
 
-Edit `n_gpus` in `run_pretraining_gpu.py`
+Edit `n_gpus` in `run_pretraining_gpu_v2.py`
 
 # DATA
 
