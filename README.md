@@ -30,7 +30,7 @@ Quora question pairs English dataset,
 
 Official BERT: ACC 91.2, AUC 96.9
 
-This BERT with pretrain loss 2.05: ACC 89.9, AUC 96.3
+This BERT with pretrain loss 2.05: ACC 90.1, AUC 96.3
 
 # WHY MUST TRAIN FROM SCRATCH
 
