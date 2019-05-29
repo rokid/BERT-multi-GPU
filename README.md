@@ -34,6 +34,4 @@ This BERT with loss 2.05: ACC 89.9, AUC 96.3
 
 # WHY MUST TRAIN FROM SCRATCH
 
-For inference speed.
-
-For research.
+For inference speed research.
